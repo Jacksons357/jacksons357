@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Jacksons357/jacksons357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! My name is **Jackson Silva**, and I’m a passionate developer with 2 years of experience in programming.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Currently pursuing **Systems Analysis and Development** at **UNINTER**.
+- 💻 Focused on creating efficient, scalable, and user-friendly applications.
+- 📚 Always eager to learn new technologies and improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+Here are some of the tools and technologies I work with:
+
+- **Languages:** TypeScript, Node.js, JavaScript
+- **Frontend Frameworks:** React, Vue.js
+- **Backend:** Node.js
+- **Other Tools:** Git, npm, pnpm, VS Code, Figma.
+
+## 🌱 Currently Learning
+- Advanced TypeScript concepts
+- API development with Node.js
+- Building robust applications with React and Vue
+
+## 📫 How to Reach Me
+- 📧 Email: contato@devjackson.tech
+- 🌐 Website/Portfolio: [devjackson.tech](https://devjackson.tech)  
+- 💼 LinkedIn: [Jackson Silva](https://www.linkedin.com/in/jacksonsantosdev)
+
+## 💡 Fun Fact
+I love technology, weight training, and exploring new places. My passion for tech started in childhood, and I continue to challenge myself daily to grow as a developer. 🚀
+
+Thanks for visiting my profile! Feel free to check out my projects and connect with me.
