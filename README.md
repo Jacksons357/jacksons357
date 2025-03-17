@@ -10,9 +10,9 @@ Welcome to my GitHub profile! My name is **Jackson Silva**, and I’m a passiona
 ## 🛠️ Technologies & Tools
 Here are some of the tools and technologies I work with:
 
-- **Languages:** TypeScript, Node.js, JavaScript
+- **Languages:** TypeScript, Node.js, JavaScript, PHP.
 - **Frontend Frameworks:** React, Vue.js
-- **Backend:** Node.js
+- **Backend:** Laravel, Fastify.
 - **Other Tools:** Git, npm, pnpm, VS Code, Figma.
 
 ## 🌱 Currently Learning
