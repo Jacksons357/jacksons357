@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! My name is **Jackson Silva**, and I’m a passionate developer with 2 years of experience in programming.
+Welcome to my GitHub profile! My name is **Jackson Santos**, and I’m a passionate developer with 2 years of experience in programming.
 
 ## 🚀 About Me
 - 🎓 Currently pursuing **Systems Analysis and Development** at **UNINTER**.
